@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Alien {
+	//id
 	private int id;
 	@Autowired
 	private Laptop lap;

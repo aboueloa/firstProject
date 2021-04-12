@@ -16,4 +16,8 @@ public class Laptop {
 	public void compile() {
 		System.out.println("it s compiling");
 	}
+	@Override
+	public String toString() {
+		return "toString";
+	}
 }

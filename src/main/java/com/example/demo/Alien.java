@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 public class Alien {
 	//id
 	private int id;
+	//useless comment
 	@Autowired
 	private Laptop lap;
 	public int getId() {
